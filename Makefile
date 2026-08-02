@@ -1,6 +1,6 @@
 CXX := g++
 CXXFLAGS := -std=c++17 -O2 -Wall -Wextra -pedantic
-TARGET := main
+TARGET := code
 SRC := main.cpp
 
 all: $(TARGET)
